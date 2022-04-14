@@ -4,3 +4,5 @@
 
 - Nombre: Carlos Vargas Ramirez
 - Fecha: 14 de Abril de 2022
+
+![](./img/ferrari.png)
