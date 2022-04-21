@@ -1,0 +1,17 @@
+
+%% datos de entrada
+pesoPersona = 12;
+anio_nacimiento = 1990;
+anio_actual = 2022;
+
+%% calculo de edad
+edad = anio_actual - anio_nacimiento
+
+%% uso de cadenas
+nombre = "Carlos"
+apellido = 'Quiñones'
+
+%% operaciones con cadenas
+sexo = 'm'
+double (sexo)
+char(

@@ -1,0 +1,19 @@
+edad = 12
+
+edad =
+
+    12
+
+nombre_estudiante = 'Felipe'
+
+nombre_estudiante =
+
+    'Felipe'
+
+length (nombre_estudiante)
+
+ans =
+
+     6
+
+diary off
